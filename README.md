@@ -1,5 +1,5 @@
 # **Prediksi Risiko Konsumsi Narkoba - Random Forest + SHAP**
-### Proyek ini merupakan tugas UTS Machine Learning Kelompok 22 yang berfokus pada prediksi risiko konsumsi narkoba menggunakan algoritma Random Forest, lengkap dengan Exploratory Data Analysis (EDA), preprocessing, training, evaluasi model, dan interpretasi menggunakan SHAP Analysis.
+### Proyek ini merupakan tugas UTS Machine Learning Kelompok 22 yang berfokus pada prediksi risiko konsumsi narkoba menggunakan algoritma Random Forest, dengan Exploratory Data Analysis (EDA), preprocessing, training, evaluasi model, dan interpretasi menggunakan SHAP Analysis.
 
  📂 Struktur Proyek
 
@@ -29,4 +29,4 @@ Amanda Wijayanti
 
 🔗 Soft Copy Repository
 
-[soft copy repository](https://github.com/IchsanJunaedi/UTS-kelompok22-MachineLearning)
+[Kelompok_22_Machine_Learning](https://github.com/IchsanJunaedi/UTS-kelompok22-MachineLearning)
