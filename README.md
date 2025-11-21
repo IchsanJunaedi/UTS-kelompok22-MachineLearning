@@ -24,7 +24,7 @@ UTS/
 Kelompok 22 – Machine Learning
 
 Muhammad Ichsan Junaedi
-Amanda Wijayanti
+& Amanda Wijayanti
 
 
 🔗 Repository Project
