@@ -27,6 +27,6 @@ Muhammad Ichsan Junaedi
 Amanda Wijayanti
 
 
-🔗 Soft Copy Repository
+🔗 Repository Project
 
-[Kelompok_22_Machine_Learning](https://github.com/IchsanJunaedi/UTS-kelompok22-MachineLearning)
+[Repository Project](https://github.com/IchsanJunaedi/kelompok22_Machine_Learning)
